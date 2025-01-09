@@ -3,13 +3,13 @@
 <table>
   <tr>
     <!-- Columna de la descripción -->
-    <td valign="top">
+    <td valign="top" style="width: 60%; max-width: 400px; padding-right: 10px;">
       <p>
         Passionate about creating efficient and scalable solutions, I enjoy working with modern technologies and frameworks to build impactful software.
       </p>
     </td>
     <!-- Columna de la imagen -->
-    <td valign="top">
+    <td valign="top" style="width: 40%; text-align: center;">
       <img src="https://media1.tenor.com/m/Dz-iTYhPK-cAAAAd/muse-matt-bellamy.gif" alt="GIF" height="200" />
     </td>
   </tr>
