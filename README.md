@@ -45,8 +45,3 @@
 
 <!-- Reemplaza 'yourusername' con tu usuario de GitHub -->
 ![Gael's GitHub stats](https://github-readme-stats.vercel.app/api?username=GRL1000&show_icons=true&theme=radical)
-
-### 🐍 Contribution Snake
-
-<!-- Reemplaza 'yourusername' con tu usuario de GitHub -->
-![Snake animation](https://github.com/GRL1000/GRL1000/blob/output/github-contribution-grid-snake.svg)
