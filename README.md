@@ -1,20 +1,15 @@
 <h2 align="left">Hi 👋! My name is Gael Rodríguez and I'm a Software Engineer specializing in Development and Software Management from México.</h2>
 
-<table>
+<table align="center">
   <tr>
-    <!-- Columna de la imagen -->
-    <td valign="top" style="text-align: center;">
+    <td align="center" valign="top">
       <img src="https://media1.tenor.com/m/Dz-iTYhPK-cAAAAd/muse-matt-bellamy.gif" alt="GIF" height="200" />
     </td>
   </tr>
 </table>
 
+<hr style="border: 1px solid #ccc; width: 80%;" />
 
-
----
-
-<!-- Habilidades -->
-<h3 align="center">Habilidades</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
   <img width="12" />
@@ -37,19 +32,25 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo" />
 </div>
 
----
+<hr style="border: 1px solid #ccc; width: 80%;" />
 
-<!-- Estadísticas -->
-<h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
-  <!-- Reemplaza 'yourusername' con tu usuario de GitHub -->
+  <a href="mailto:gaelrodriguezl474@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/gael-rodríguez-30598b28b/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+</div>
+
+<hr style="border: 1px solid #ccc; width: 80%;" />
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GRL1000&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
----
+<hr style="border: 1px solid #ccc; width: 80%;" />
 
-<!-- Snake -->
-<h3 align="center">🐍 Snake Animation</h3>
 <div align="center">
   <img src="https://github.com/GRL1000/GRL1000/blob/output/github-snake-dark.svg" alt="snake gif" />
 </div>
