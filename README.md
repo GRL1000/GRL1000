@@ -1,12 +1,25 @@
 <h2 align="left">Hi 👋! My name is Gael Rodríguez and I'm a Software Engineer specializing in Development and Software Management from México.</h2>
 
-###
+<table>
+  <tr>
+    <!-- Columna de la descripción -->
+    <td valign="top">
+      <p>
+        Passionate about creating efficient and scalable solutions, I enjoy working with modern technologies and frameworks to build impactful software.
+      </p>
+    </td>
+    <!-- Columna de la imagen -->
+    <td valign="top">
+      <img src="https://media1.tenor.com/m/Dz-iTYhPK-cAAAAd/muse-matt-bellamy.gif" alt="GIF" height="200" />
+    </td>
+  </tr>
+</table>
 
-<img align="right" height="200" src="https://media1.tenor.com/m/Dz-iTYhPK-cAAAAd/muse-matt-bellamy.gif" />
+---
 
-###
-
-<div align="left">
+<!-- Habilidades -->
+<h3 align="center">Habilidades</h3>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
@@ -28,22 +41,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo" />
 </div>
 
-###
+---
 
-<div align="left">
-  <a href="mailto:youremail@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/yourlinkedinprofile/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
+<!-- Estadísticas -->
+<h3 align="center">📊 GitHub Stats</h3>
+<div align="center">
+  <!-- Reemplaza 'yourusername' con tu usuario de GitHub -->
+  <img src="https://github-readme-stats.vercel.app/api?username=GRL1000&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
-###
+---
 
-### 📊 GitHub Stats
-
-<!-- Reemplaza 'yourusername' con tu usuario de GitHub -->
-![Gael's GitHub stats](https://github-readme-stats.vercel.app/api?username=GRL1000&show_icons=true&theme=radical)
-
-![snake gif](https://github.com/GRL1000/GRL1000/blob/output/github-snake-dark.svg)
+<!-- Snake -->
+<h3 align="center">🐍 Snake Animation</h3>
+<div align="center">
+  <img src="https://github.com/GRL1000/GRL1000/blob/output/github-snake-dark.svg" alt="snake gif" />
+</div>
