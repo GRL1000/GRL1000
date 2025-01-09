@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="112" src="https://media1.tenor.com/m/Dz-iTYhPK-cAAAAd/muse-matt-bellamy.gif" />
+<img align="right" height="500" src="https://media1.tenor.com/m/Dz-iTYhPK-cAAAAd/muse-matt-bellamy.gif" />
 
 ###
 
